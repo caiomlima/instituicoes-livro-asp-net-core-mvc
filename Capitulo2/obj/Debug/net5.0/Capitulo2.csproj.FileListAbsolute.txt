@@ -1,0 +1,932 @@
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.AssemblyReference.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.AssemblyInfoInputs.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.AssemblyInfo.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.CoreCompileInputs.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.MvcApplicationPartsAssemblyInfo.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorAssemblyInfo.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorAssemblyInfo.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\appsettings.Development.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\appsettings.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.exe
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.deps.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.runtimeconfig.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.runtimeconfig.dev.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ref\Capitulo2.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.Views.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.Views.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\staticwebassets\Capitulo2.StaticWebAssets.Manifest.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\staticwebassets\Capitulo2.StaticWebAssets.xml
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\scopedcss\bundle\Capitulo2.styles.css
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.TagHelpers.input.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.TagHelpers.output.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorCoreGenerate.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorTargetAssemblyInfo.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorTargetAssemblyInfo.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.Views.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.CopyComplete
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\ref\Capitulo2.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.genruntimeconfig.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Humanizer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_LayoutIES.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\libman.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\mscorlib.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\netstandard.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Console.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Memory.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Web.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Windows.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.MvcApplicationPartsAssemblyInfo.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Modelo.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Create.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Delete.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Details.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Edit.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Index.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Create.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Delete.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Details.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Edit.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Index.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\_ComDepartamentos.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Create.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Delete.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Details.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Edit.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Index.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Infra\Acessar.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Infra\RegistrarNovoUsuario.cshtml.g.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Capitulo2\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\appsettings.Development.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\appsettings.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\libman.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.exe
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.deps.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.runtimeconfig.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.runtimeconfig.dev.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ref\Capitulo2.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\mscorlib.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\netstandard.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Console.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Data.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Memory.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Web.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Windows.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.Views.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Capitulo2.Views.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Abp.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Abp.Web.Common.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Castle.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Castle.Windsor.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Humanizer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Nito.Disposables.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\NUglify.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\bin\Debug\net5.0\Modelo.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.AssemblyReference.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.AssemblyInfoInputs.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.AssemblyInfo.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.CoreCompileInputs.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.MvcApplicationPartsAssemblyInfo.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.MvcApplicationPartsAssemblyInfo.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorAssemblyInfo.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorAssemblyInfo.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\staticwebassets\Capitulo2.StaticWebAssets.Manifest.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\staticwebassets\Capitulo2.StaticWebAssets.xml
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\scopedcss\bundle\Capitulo2.styles.css
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.TagHelpers.input.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.TagHelpers.output.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorCoreGenerate.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Create.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Delete.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Details.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Edit.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Departamento\Index.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Create.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Delete.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Details.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Edit.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\Index.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\Instituicao\_ComDepartamentos.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Cadastros\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Create.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Delete.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Details.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Edit.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\Academico\Index.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Discente\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Infra\Acessar.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Infra\RegistrarNovoUsuario.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\Erro404.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_LayoutIES.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorTargetAssemblyInfo.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.RazorTargetAssemblyInfo.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.Views.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.csproj.CopyComplete
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\ref\Capitulo2.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Capitulo2.genruntimeconfig.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Docente\Views\_ViewImports.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Docente\Views\_ViewStart.cshtml.g.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Capitulo2\obj\Debug\net5.0\Razor\Areas\Docente\Views\Professor\AdicionarProfessor.cshtml.g.cs

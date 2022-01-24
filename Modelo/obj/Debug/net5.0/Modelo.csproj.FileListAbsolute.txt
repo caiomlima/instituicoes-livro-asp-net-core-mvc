@@ -1,0 +1,24 @@
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.deps.json
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.pdb
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+D:\# Development\Web\Projeto Estudo PDFs\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.deps.json
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\bin\Debug\net5.0\Modelo.pdb
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+D:\# Development\Web\Projetos PDF Everton ASPNET\Capitulo2\Modelo\obj\Debug\net5.0\Modelo.pdb

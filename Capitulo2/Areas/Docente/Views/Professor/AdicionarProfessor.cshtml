@@ -1,0 +1,76 @@
+﻿@model Capitulo2.Areas.Docente.Models.AdicionarProfessorViewModel
+
+@{
+    ViewData["Title"] = "Adicionar Professor";
+}
+
+
+<h1>Adicionar um novo Professor</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdicionarProfessor">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InstituicaoId" class="control-label"></label>
+                <select	asp-for="InstituicaoId" class="form-control" asp-items="@(new SelectList(@ViewBag.Instituicoes,	"InstituicaoId", "Nome"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartamentoId" class="control-label"></label>
+                <select	asp-for="DepartamentoId" class="form-control" asp-items="@(new SelectList(@ViewBag.Departamentos, "DepartamentoId", "Nome"))" data-url = "@Url.Action("ObterDepartamentosPorInstituicao", "Professor", new	{ area	= "Docente"	})"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CursoId" class="control-label"></label>
+                <select	asp-for="CursoId" class="form-control" asp-items="@(new	SelectList(@ViewBag.Cursos,	"CursoId", "Nome"))" data-url = "@Url.Action("ObterCursosPorDepartamento", "Professor", new { area = "Docente" })"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProfessorId" class="control-label"></label>
+                <select	asp-for="ProfessorId" class="form-control" asp-items="@(new	SelectList(@ViewBag.Professores, "ProfessorId",	"Nome"))" data-url = "@Url.Action("ObterProfessoresForaDoCurso", "Professor", new { area = "Docente" })"></select>
+            </div>
+
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Registrar Professor" class="btn btn-primary" />
+            </div>
+            <a asp-action="VerificarUltimosRegistros" class="btn btn-info">Verificar últimos registros</a>
+        </form>
+    </div>
+</div>
+
+@section ScriptPage	{
+	@{await	Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+    <script	type="text/javascript">
+        $(document).on("change", '#InstituicaoId',	function (e) {
+            var	instituicaoId =	$(this).find(":selected").val();
+            GetDadosParaDropDownList(instituicaoId, '#DepartamentoId', 'DEPARTAMENTO');
+        });
+        $(document).on("change", '#DepartamentoId',	function (e){
+            var	departamentoId	= $(this).find(":selected").val();
+            GetDadosParaDropDownList(departamentoId, '#CursoId', 'CURSO');
+        });
+        $(document).on("change", '#CursoId', function (e) {
+            var	cursoId	= $(this).find(":selected").val();
+            GetDadosParaDropDownList(cursoId, '#ProfessorId', 'PROFESSOR');
+        });
+        function GetDadosParaDropDownList(valorBuscar, controleAtualizar, nomeDado) {
+            var	optionControleAtualizar	= controleAtualizar + 'option';
+            if (valorBuscar.length > 0) {
+                var	url	= $(controleAtualizar).data('url');
+                $.getJSON(url, { actionId: valorBuscar }, function(dadosRecebidos) {
+                    $(optionControleAtualizar).remove();
+                    $(controleAtualizar).append('<option value="0">Selecione o ' + nomeDado	+ '</option');
+                    for	(i = 0;	i < dadosRecebidos.length; i++) {
+                        $(controleAtualizar).append('<option value="' +	dadosRecebidos[i].value	+ '">' + dadosRecebidos[i].text	+ '</option');
+                    }
+                }).fail(function (jqXHR, textStatus, errorThrown){
+                    debugger;
+                    alert('Erro	de conexão', 'Erro obtendo dados');
+                });
+            } else {
+                $(optionControleAtualizar).remove();
+                $(controleAtualizar).append('<option value=""></option');
+            }
+        }
+    </script>
+}

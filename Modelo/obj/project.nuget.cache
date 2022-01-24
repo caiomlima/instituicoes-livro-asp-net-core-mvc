@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5yMg8cpT9ZhQhDrmRhLtPNPUfaJyB5pjlOBgFSWkUNaysFn4o5GA4XuXpEFNpCt6l6P3Nt0bwnPHBhukKo98Q==",
+  "success": true,
+  "projectFilePath": "D:\\# Development\\Web\\Projetos PDF Everton ASPNET\\Capitulo2\\Modelo\\Modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M3iEX\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.13\\microsoft.aspnetcore.http.features.5.0.13.nupkg.sha512",
+    "C:\\Users\\M3iEX\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\M3iEX\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

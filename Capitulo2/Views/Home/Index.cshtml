@@ -1,0 +1,17 @@
+﻿@inject	Microsoft.AspNetCore.Identity.SignInManager<Capitulo2.Models.Infra.UsuarioDoApp> SignInManager
+@inject	Microsoft.AspNetCore.Identity.UserManager<Capitulo2.Models.Infra.UsuarioDoApp> UserManager
+
+@{
+    ViewData["Title"] = "Página Principal";
+}
+
+
+@if(SignInManager.IsSignedIn(User)) {
+    <div class="text-center">
+        <h1>Bem Vindo(a) @UserManager.GetUserName(User) ao Projeto Web de Insituições de Ensino</h1>
+    </div>
+} else {
+    <div class="text-center">
+        <h1>Bem Vindo(a) ao Projeto Web de Insituições de Ensino, faça login para acessar os recursos</h1>
+    </div>
+}
